@@ -1,0 +1,4207 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Opstel van 'n proefbalans</title>
+  <metadata>
+  <md:content-id>m31824</md:content-id><md:title>Opstel van 'n proefbalans</md:title>
+  <md:abstract/>
+  <md:uuid>1aff4649-e30b-418b-addd-504b902e1f4c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1167633642128">
+      <title>EKONOMIESE EN BESTUURSWETENSKAPPE</title>
+      <para id="para-id1167633642128">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167633642135">
+      <title>Graad 9</title>
+      <para id="para-id1167633642135">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1167633642143">
+      <title>BESTUURS-, VERBRUIKERS- EN FINANSIËLE KENNIS EN VAARDIGHEDE</title>
+      <para id="id1167633642154">Module 23</para>
+      <para id="id1167633642158">OPSTEL VAN ‘N PROEFBALANS</para>
+      <para id="id1167633642163">Afdeling 3: Proefbalans</para>
+      <para id="id1167633642170">AKTIWITEIT1: </para>
+      <para id="id1167633642176">Om ’n proefbalans op te stel</para>
+      <para id="id1167633642183">[LU 3.3] </para>
+      <para id="id1167633642195">Nadat die grootboekrekeninge voltooi is, word die rekeninge afgesluit en oorgedra na ’n Proefbalans.</para>
+      <para id="id1167633642201">Rekeninge wat slegs inskrywings aan die debiet- of kredietkant het, word slegs opgetel om ’n totaal te verkry.</para>
+      <para id="id1167633642208">Rekeninge met inskrywings aan die debiet- en kredietkant word gesaldeer. Dit beteken ’n saldo wat die verskil is tussen die twee kante, word bereken byvoorbeeld: </para>
+      <table id="id1167633642216" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c12">Bankrekening</entry>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">2003</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry namest="c7" nameend="c8">2003</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Nov.</entry>
+              <entry>30</entry>
+              <entry>Totale ontvangste</entry>
+              <entry>KOJ</entry>
+              <entry>20 698</entry>
+              <entry>00</entry>
+              <entry>Nov.</entry>
+              <entry>30</entry>
+              <entry>Totale betalings</entry>
+              <entry>KBJ</entry>
+              <entry>15 633</entry>
+              <entry>00</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>30</entry>
+              <entry>Saldo</entry>
+              <entry>o/d</entry>
+              <entry>5 065</entry>
+              <entry>00</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>20 698</entry>
+              <entry>00</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>20 698</entry>
+              <entry>00</entry>
+            </row>
+            <row>
+              <entry>Des.</entry>
+              <entry>1</entry>
+              <entry>Saldo</entry>
+              <entry>a/b</entry>
+              <entry>5 065</entry>
+              <entry>00</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633642762">Die afgebringde saldo’s en totale word oorgedra na die Proefbalans.</para>
+      <list id="id1167633642767" list-type="bulleted">
+        <item>’n Proefbalans is ’n lys van saldo’s en totale wat opgestel word om te bepaal of die debietkant of kredietkant gelyk is aan mekaar en sodoende te kontroleer of die dubbelinskrywingsbeginsel vir elke transaksie toegepas is.</item>
+      </list>
+      <para id="id1167633642778">Alhoewel die Proefbalans aandui dat daar vir elke debietinskrywing ’n kredietinskrywing gemaak is, is daar sekere foute wat nie deur die proefbalans aangetoon sal word nie. ’n Proefbalans wat balanseer kan dus nie in alle gevalle as bewys van korrektheid aanvaar word nie.</para>
+      <list id="id1167633642791" list-type="bulleted">
+        <item>Hier volg ’n voorbeeld van ’n Proefbalans.</item>
+      </list>
+      <para id="id1167633642800">PROEFBALANS VAN RANDOM WINKELS OP 30 JUNIE 2003</para>
+      <table id="id1167633642804" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Dt.</entry>
+              <entry>Kt.</entry>
+            </row>
+            <row>
+              <entry>Balansstaatafdeling</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Kapitaal</entry>
+              <entry>B1</entry>
+              <entry/>
+              <entry>199 322</entry>
+            </row>
+            <row>
+              <entry>Onttrekkings</entry>
+              <entry>B2</entry>
+              <entry>15 000</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Grond en Geboue</entry>
+              <entry>B3</entry>
+              <entry>105 000</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Voertuie</entry>
+              <entry>B4</entry>
+              <entry>28 000</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Toerusting</entry>
+              <entry>B5</entry>
+              <entry>32 125</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Handelsvoorraad</entry>
+              <entry>B6</entry>
+              <entry>45 310</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Debiteurekontrole</entry>
+              <entry>B7</entry>
+              <entry>12 180</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bank</entry>
+              <entry>B8</entry>
+              <entry>11 754</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Wisselgeld</entry>
+              <entry>B9</entry>
+              <entry>600</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Kleinkas</entry>
+              <entry>B10</entry>
+              <entry>250</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Krediteurekontrole</entry>
+              <entry>B11</entry>
+              <entry/>
+              <entry>15 994</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Nominale Rekeninge-afdeling</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Verkope</entry>
+              <entry>N1</entry>
+              <entry/>
+              <entry>350 000</entry>
+            </row>
+            <row>
+              <entry>Koste van verkope</entry>
+              <entry>N2</entry>
+              <entry>250 000</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Eiendomsbelasting</entry>
+              <entry>N3</entry>
+              <entry>4 210</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Versekering</entry>
+              <entry>N4</entry>
+              <entry>3 850</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Water en elektrisiteit</entry>
+              <entry>N5</entry>
+              <entry>4 952</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Telefoon</entry>
+              <entry>N6</entry>
+              <entry>4 810</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Skryfbehoeftes</entry>
+              <entry>N7</entry>
+              <entry>2 750</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Herstelwerk</entry>
+              <entry>N8</entry>
+              <entry>5 325</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Lone</entry>
+              <entry>N9</entry>
+              <entry>18 000</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Salarisse</entry>
+              <entry>N10</entry>
+              <entry>26 000</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Huurinkomste</entry>
+              <entry>N11</entry>
+              <entry/>
+              <entry>4 800</entry>
+            </row>
+            <row>
+              <entry>Totale</entry>
+              <entry/>
+              <entry>570 116</entry>
+              <entry>570 116</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633643859"><emphasis effect="underline">OPDRAG 1</emphasis>: Proefbalans</para>
+      <list id="id1167633643873" list-type="bulleted">
+        <item>Gebruik die voltooide grootboekrekeninge van Enslin Handelaars (Aktiwiteit 3.6 Opdrag 9).</item>
+      </list>
+      <list id="id1167633643883" list-type="bulleted">
+        <item>Saldeer die rekeninge, kry totale en stel ’n Proefbalans op.</item>
+      </list>
+      <table id="id1167633643892" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>LU 3.3</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633644013"><emphasis effect="underline">OPDRAG 2</emphasis>: Hulpjoernale, Grootboek en Proefbalans</para>
+      <list id="id1167633644027" list-type="bulleted">
+        <item>P. Hatting begin op 1 April 2003 sy onderneming, Hatting Handelaars, met ’n kapitaalbydrae van R105 000.</item>
+      </list>
+      <para id="id1167633644037">1. Boekstaaf die transaksies vir April in die volgende hulpjoernale: KOJ 3.7.1, KBJ 3.7.1, DJ 3.7.1 en KJ 3.7.1</para>
+      <para id="id1167633644046">2. Sluit die joernale aan die einde van die maand af</para>
+      <para id="id1167633644052">3. Boek oor na die grootboekrekeninge en toon folionommers</para>
+      <para id="id1167633644059">4. Saldeer die rekeninge of kry totale waar nodig</para>
+      <para id="id1167633644065">5. Stel ’n proefbalans op aan die einde van April</para>
+      <list id="id1167633644073" list-type="bulleted">
+        <item><emphasis effect="bold">Transaksies</emphasis>: <emphasis effect="italics">April 2003</emphasis></item>
+      </list>
+      <list id="id1167633644094" list-type="bulleted">
+        <item>Duplikaat van kwitansies uitgereik</item>
+      </list>
+      <table id="id1167633644102" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>DATUM</entry>
+              <entry>AAN WIE UITGEREIK, <emphasis effect="italics">REDE</emphasis></entry>
+              <entry>BEDRAG</entry>
+            </row>
+            <row>
+              <entry>2003</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>April <emphasis effect="bold">1</emphasis></entry>
+              <entry>P. Hatting, <emphasis effect="italics">vir kapitaalbydrae</emphasis></entry>
+              <entry>R105 000</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">7</emphasis>
+              </entry>
+              <entry>V. Jansen, <emphasis effect="italics">om sy skuld te vereffen</emphasis></entry>
+              <entry>R 660</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>Blommie Bloemiste, <emphasis effect="italics">vir huurinkomste</emphasis></entry>
+              <entry>R 500</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">14</emphasis>
+              </entry>
+              <entry>D. Coetzee, <emphasis effect="italics">betaling op rekening</emphasis></entry>
+              <entry>R 300</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">21</emphasis>
+              </entry>
+              <entry>G. Ferreira, <emphasis effect="italics">betaling op rekening</emphasis></entry>
+              <entry>R 200</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">28</emphasis>
+              </entry>
+              <entry>V. Jansen, <emphasis effect="italics">om die bedrag van die faktuur op</emphasis><emphasis effect="italics">17 April uitgereik, te betaal</emphasis></entry>
+              <entry>R 246</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1167633644496" list-type="bulleted">
+        <item>Kontantverkope van goedere volgens kasregisterrol</item>
+      </list>
+      <table id="id1167633644504" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>DATUM</entry>
+              <entry>VERKOPE</entry>
+              <entry>KOSTE VAN VERKOPE</entry>
+            </row>
+            <row>
+              <entry>2003</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>April <emphasis effect="bold">7</emphasis></entry>
+              <entry>R5 800</entry>
+              <entry>R4 600</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">17</emphasis>
+              </entry>
+              <entry>R3 820</entry>
+              <entry>R2 440</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">21</emphasis>
+              </entry>
+              <entry>R7 620</entry>
+              <entry>R5 740</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">28</emphasis>
+              </entry>
+              <entry>R1 944</entry>
+              <entry>R1 406</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1167633644745" list-type="bulleted">
+        <item>Kontant ontvang vir dienste gelewer</item>
+      </list>
+      <table id="id1167633644753" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>DATUM </entry>
+              <entry>BEDRAG</entry>
+            </row>
+            <row>
+              <entry>2003</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>April <emphasis effect="bold">5</emphasis></entry>
+              <entry>R2 160</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">17</emphasis>
+              </entry>
+              <entry>R3 220</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">25</emphasis>
+              </entry>
+              <entry>R1 736</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1167633644903" list-type="bulleted">
+        <item>Duplikate van bankdepositostrokies</item>
+      </list>
+      <table id="id1167633644912" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>DATUM</entry>
+              <entry>BEDRAG</entry>
+            </row>
+            <row>
+              <entry>2003</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>April <emphasis effect="bold">1</emphasis></entry>
+              <entry>R105 000</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">5</emphasis>
+              </entry>
+              <entry>R 2 160</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">7</emphasis>
+              </entry>
+              <entry>R 6 960</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">14</emphasis>
+              </entry>
+              <entry>R 300</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">17</emphasis>
+              </entry>
+              <entry>R 7 040</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">21</emphasis>
+              </entry>
+              <entry>R 7 820</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">25</emphasis>
+              </entry>
+              <entry>R 1 736</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">28</emphasis>
+              </entry>
+              <entry>R 2 190</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633645251"/>
+      <list id="id1167633645255" list-type="bulleted">
+        <item>Tjekteenblaaie</item>
+      </list>
+      <table id="id1167633645264" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>DATUM</entry>
+              <entry>BEGUNSTIGDE </entry>
+              <entry>REDE VIR BETALING</entry>
+              <entry>BEDRAG</entry>
+            </row>
+            <row>
+              <entry>2003</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>April <emphasis effect="bold">2</emphasis></entry>
+              <entry>Perfektum Bouers</entry>
+              <entry>Gebou gekoop</entry>
+              <entry>R80 000</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">3</emphasis>
+              </entry>
+              <entry>Stylish Equipment</entry>
+              <entry>Toerusting gekoop</entry>
+              <entry>R 4 500</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">4</emphasis>
+              </entry>
+              <entry>Kontant</entry>
+              <entry>Vir wisselgeld</entry>
+              <entry>R 180</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>Caro Bpk.</entry>
+              <entry>Vir materiaal gekoop</entry>
+              <entry>R 2 675</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">7</emphasis>
+              </entry>
+              <entry>Kontant</entry>
+              <entry>Vir lone</entry>
+              <entry>R 560</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">10</emphasis>
+              </entry>
+              <entry>Trust Makelaars</entry>
+              <entry>Vir Versekeringspremie</entry>
+              <entry>R 600</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">14</emphasis>
+              </entry>
+              <entry>Kontant</entry>
+              <entry>Vir lone</entry>
+              <entry>R 560</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>Zy Groothandelaars</entry>
+              <entry>Handelsware kontant gekoop</entry>
+              <entry>R 5 950</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Skryfbehoeftes kontant gekoop</entry>
+              <entry>R 180</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">16</emphasis>
+              </entry>
+              <entry>Larnie Meubileerders</entry>
+              <entry>Verskuldigde bedrag betaal</entry>
+              <entry>R 3 760</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">17</emphasis>
+              </entry>
+              <entry>Caro Bpk.</entry>
+              <entry>Materiaal aangekoop</entry>
+              <entry>R 2 896</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>Kontant</entry>
+              <entry>Vir lone</entry>
+              <entry>R 560</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>Wesco Verspreiders</entry>
+              <entry>Vir handelsware gekoop</entry>
+              <entry>R 3 875</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">28</emphasis>
+              </entry>
+              <entry>Kontant</entry>
+              <entry>Vir lone</entry>
+              <entry>R 560</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">30</emphasis>
+              </entry>
+              <entry>J Henning</entry>
+              <entry>Bestuurder se salaris</entry>
+              <entry>R 2 110</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>Bengo Groothandelaars</entry>
+              <entry>Bedrag verskuldig tot op hede</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1167633646144" list-type="bulleted">
+        <item>Oorspronklike fakture van verskaffers ontvang</item>
+      </list>
+      <table id="id1167633646153" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>DATUM</entry>
+              <entry>VAN WIE GEKOOP</entry>
+              <entry>ITEMS/DIENSTE</entry>
+              <entry>BEDRAG</entry>
+            </row>
+            <row>
+              <entry>2003</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>April <emphasis effect="bold">3</emphasis></entry>
+              <entry>Larnie Meubileerders</entry>
+              <entry>Toerusting</entry>
+              <entry>R 3 760</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">5</emphasis>
+              </entry>
+              <entry>Bengo Groothandelaars</entry>
+              <entry>Handelsware</entry>
+              <entry>R 8 844</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">6</emphasis>
+              </entry>
+              <entry>Willow Voorsieners</entry>
+              <entry>Materiaal</entry>
+              <entry>R 2 500</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">7</emphasis>
+              </entry>
+              <entry>Pen en Papier</entry>
+              <entry>Skryfbehoeftes</entry>
+              <entry>R 228</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">9</emphasis>
+              </entry>
+              <entry>Bengo Groothandelaars</entry>
+              <entry>Goedere</entry>
+              <entry>R 4 750</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">15</emphasis>
+              </entry>
+              <entry>Toledo Motors</entry>
+              <entry>Afleweringsvoertuig</entry>
+              <entry>R28 660</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">17</emphasis>
+              </entry>
+              <entry>Willow Voorsieners</entry>
+              <entry>Materiaal</entry>
+              <entry>R 420</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Handelsware</entry>
+              <entry>R 3 000</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">19</emphasis>
+              </entry>
+              <entry>Pen en Papier</entry>
+              <entry>Skryfbehoeftes</entry>
+              <entry>R 106</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">26</emphasis>
+              </entry>
+              <entry>Bengo Groothandelaars</entry>
+              <entry>Handelsvoorraad</entry>
+              <entry>R 1 400</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <list id="id1167633646774" list-type="bulleted">
+        <item>Duplikate van fakture uitgereik vir goedere op krediet verkoop</item>
+      </list>
+      <table id="id1167633646783" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>DATUM</entry>
+              <entry>AAN WIE VERKOOP</entry>
+              <entry>BEDRAG</entry>
+              <entry>KOSPRYS</entry>
+            </row>
+            <row>
+              <entry>2003</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>April <emphasis effect="bold">4</emphasis></entry>
+              <entry>V Jansen</entry>
+              <entry>R660</entry>
+              <entry>R495</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">10</emphasis>
+              </entry>
+              <entry>D Coetzee</entry>
+              <entry>R890</entry>
+              <entry>R712</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">13</emphasis>
+              </entry>
+              <entry>G Ferreira</entry>
+              <entry>R260</entry>
+              <entry>R128</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">16</emphasis>
+              </entry>
+              <entry>D Coetzee</entry>
+              <entry>R106</entry>
+              <entry>R 84</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">17</emphasis>
+              </entry>
+              <entry>V Jansen</entry>
+              <entry>R246</entry>
+              <entry>R184</entry>
+            </row>
+            <row>
+              <entry>
+                <emphasis effect="bold">26</emphasis>
+              </entry>
+              <entry>G Ferreira</entry>
+              <entry>R340</entry>
+              <entry>R272</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633647189"/>
+      <para id="id1167633647193">DEBITEUREJOERNAAL VAN HATTING HANDELAARS – APRIL 2003 DJ 3.7.1</para>
+      <table id="id1167633647200" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Fak­tuur</entry>
+              <entry>Dag</entry>
+              <entry>Debiteure</entry>
+              <entry>Fol.</entry>
+              <entry>Verkope</entry>
+              <entry>Koste van verkope</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633647548">KONTANTONTVANGSTEJOERNAAL VAN HATTING HANDELAARS - APRIL 2003 KOJ 3.7.1</para>
+      <table id="id1167633647554" summary="">
+        <tgroup cols="20">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <colspec colnum="19" colname="c19"/>
+          <colspec colnum="20" colname="c20"/>
+          <tbody>
+            <row>
+              <entry>Dok.</entry>
+              <entry>Dag</entry>
+              <entry>Besonder-hede</entry>
+              <entry>Fol.</entry>
+              <entry namest="c5" nameend="c6">Ontleding</entry>
+              <entry namest="c7" nameend="c8">Bank</entry>
+              <entry namest="c9" nameend="c10">Verkope</entry>
+              <entry namest="c11" nameend="c12">Koste van verkope</entry>
+              <entry namest="c13" nameend="c14">Lopende inkomste</entry>
+              <entry namest="c15" nameend="c16">Debiteure­kontrole</entry>
+              <entrytbl namest="c17" nameend="c20" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c3">Diverse rekeninge</entry>
+                  </row>
+                  <row>
+                    <entry>Bedrag</entry>
+                    <entry>Fol.</entry>
+                    <entry>Besonderhede</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633621387">KREDITEUREJOERNAAL VAN HATTING HANDELAARS – APRIL 2003 KJ 3.7.1</para>
+      <table id="id1167633621395" summary="">
+        <tgroup cols="17">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <tbody>
+            <row>
+              <entry>Fak-tuur</entry>
+              <entry>Dag</entry>
+              <entry>Krediteur</entry>
+              <entry namest="c4" nameend="c5">Krediteure­kontrole</entry>
+              <entry namest="c6" nameend="c7">Handels­voorraad</entry>
+              <entry namest="c8" nameend="c9">Skryfbe­hoeftes</entry>
+              <entry namest="c10" nameend="c11">Materiaal­koste</entry>
+              <entry namest="c12" nameend="c13"/>
+              <entrytbl namest="c14" nameend="c17" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c3">Diverse rekeninge</entry>
+                  </row>
+                  <row>
+                    <entry>Bedrag</entry>
+                    <entry>Fol.</entry>
+                    <entry>Besonderhede</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633622704">KONTANTBETALINGSJOERNAAL VAN HATTING HANDELAARS - APRIL 2003 KBJ 3.7.1</para>
+      <table id="id1167633622710" summary="">
+        <tgroup cols="18">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <tbody>
+            <row>
+              <entry>Dok.</entry>
+              <entry>Dag</entry>
+              <entry>Naam van begunstigde</entry>
+              <entry>Fol.</entry>
+              <entry namest="c5" nameend="c6">Bank</entry>
+              <entry namest="c7" nameend="c8">Handels­voorraad</entry>
+              <entry namest="c9" nameend="c10">Materiaal­koste</entry>
+              <entry namest="c11" nameend="c12">Lone</entry>
+              <entry namest="c13" nameend="c14">Krediteure­kontrole</entry>
+              <entrytbl namest="c15" nameend="c18" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c3">Diverse rekeninge</entry>
+                  </row>
+                  <row>
+                    <entry>Bedrag</entry>
+                    <entry>Fol.</entry>
+                    <entry>Besonderhede</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633624723">Assessering</para>
+      <table id="id1167633624728" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry>LU 3 </entry>
+            </row>
+            <row>
+              <entry>Bestuurs-, Verbruiker- en Finansiële Kennis en VaardighedeDie leerder is in staat om kennis en die vermoë te toon om verskeie bestuurs-, verbruikers- en finansiële vaardighede toe te pas.</entry>
+            </row>
+            <row>
+              <entry>Assesseringstandaarde(ASe)</entry>
+            </row>
+            <row>
+              <entry/>
+            </row>
+            <row>
+              <entry>Ons weet dit as die leerder:</entry>
+            </row>
+            <row>
+              <entry>3.1 ‘n basiese inkomstestaat en balansstaat vir ‘n diensverskaffings- en kleinhandelbesigheid opstel;</entry>
+            </row>
+            <row>
+              <entry>3.2 verskillende sakeondernemings se strategieë en optrede ondersoek ten opsigte van openbare betrekkinge, sosiale verantwoordelikheid en omgewingsverantwoordelikheid;</entry>
+            </row>
+            <row>
+              <entry>3.3 kontant- en krediettransaksies in die boeke van diens- en kleinhandelondernemings doen;</entry>
+            </row>
+            <row>
+              <entry>3.4 toetsbordvaardighede en funksietoetse gebruik om sakedokumente te ontwikkel, te bewaar, te herwin en te redigeer;</entry>
+            </row>
+            <row>
+              <entry>3.5 finansiële state ontleed vir besluitneming op ‘n basiese vlak;</entry>
+            </row>
+            <row>
+              <entry>3.6 tussen verskeie vorms van kredietaankope en metodes van betaling kan onderskei.</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id1167633624906">
+      <title>Memorandum</title>
+      <para id="id1167633624913">OPDRAG 1</para>
+      <para id="id1167633624918">PROEFBALANS VAN ENSLIN HANDELAARS OP 30 NOVEMBER 2003</para>
+      <table id="id1167633624922" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Dt.</entry>
+              <entry>Kt.</entry>
+            </row>
+            <row>
+              <entry>Balansstaatafdeling</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Kapitaal</entry>
+              <entry>B1</entry>
+              <entry/>
+              <entry>30 000</entry>
+            </row>
+            <row>
+              <entry>Onttrekkings</entry>
+              <entry>B2</entry>
+              <entry>100</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Voertuie</entry>
+              <entry>B3</entry>
+              <entry>7 800</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Toerusting</entry>
+              <entry>B4</entry>
+              <entry>4 640</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Handelsvoorraad</entry>
+              <entry>B5</entry>
+              <entry>2 710</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Debiteurekontrole</entry>
+              <entry>B6</entry>
+              <entry>2 750</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bank</entry>
+              <entry>B7</entry>
+              <entry>21 345</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Krediteurekontrole</entry>
+              <entry>B8</entry>
+              <entry/>
+              <entry>11 253</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Nominale Rekeninge-afdeling</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Verkope</entry>
+              <entry>N1</entry>
+              <entry/>
+              <entry>6 500</entry>
+            </row>
+            <row>
+              <entry>Kosprys van verkope</entry>
+              <entry>N2</entry>
+              <entry>4 960</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Lone</entry>
+              <entry>N3</entry>
+              <entry>300</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Skryfbehoeftes</entry>
+              <entry>N4</entry>
+              <entry>652</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Telefoon</entry>
+              <entry>N5</entry>
+              <entry>135</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Verpakkingsmateriaal</entry>
+              <entry>N6</entry>
+              <entry>1 740</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Herstelwerk</entry>
+              <entry>N7</entry>
+              <entry>621</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Totale</entry>
+              <entry/>
+              <entry>47 753</entry>
+              <entry>47 753</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633625710">OPDRAG 2</para>
+      <para id="id1167633625715">KONTANTBETALINGSJOERNAAL VAN HATTING HANDELAARS - APRIL 2003 KBJ 3.7.1</para>
+      <table id="id1167633625721" summary="">
+        <tgroup cols="18">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <tbody>
+            <row>
+              <entry>Dok</entry>
+              <entry>Dag</entry>
+              <entry>Naam van begunstigde</entry>
+              <entry>Fol</entry>
+              <entry namest="c5" nameend="c6">Bank</entry>
+              <entry namest="c7" nameend="c8">Handels-voorraad</entry>
+              <entry namest="c9" nameend="c10">Materiaal-koste</entry>
+              <entry namest="c11" nameend="c12">Lone</entry>
+              <entry namest="c13" nameend="c14">Krediteure-kontrole</entry>
+              <entrytbl namest="c15" nameend="c18" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c3">Diverse rekeninge</entry>
+                  </row>
+                  <row>
+                    <entry>Bedrag</entry>
+                    <entry>Fol</entry>
+                    <entry>Besonderhede</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>200</entry>
+              <entry>2</entry>
+              <entry>Perfektum Bouers</entry>
+              <entry/>
+              <entry>80 000</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>80 000</entry>
+              <entry>-</entry>
+              <entry>B2</entry>
+              <entry>Grond en Geboue</entry>
+            </row>
+            <row>
+              <entry>201</entry>
+              <entry>3</entry>
+              <entry>Stylish Equipment</entry>
+              <entry/>
+              <entry>4 500</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>4 500</entry>
+              <entry>-</entry>
+              <entry>B3</entry>
+              <entry>Toerusting</entry>
+            </row>
+            <row>
+              <entry>202</entry>
+              <entry>4</entry>
+              <entry>Kontant</entry>
+              <entry/>
+              <entry>180</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>180</entry>
+              <entry>-</entry>
+              <entry>B6</entry>
+              <entry>Wisselgeld</entry>
+            </row>
+            <row>
+              <entry>203</entry>
+              <entry/>
+              <entry>Caro Bpk.</entry>
+              <entry/>
+              <entry>2 675</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry>2 675</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>204</entry>
+              <entry>7</entry>
+              <entry>Kontant</entry>
+              <entry/>
+              <entry>560</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>560</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>205</entry>
+              <entry>10</entry>
+              <entry>Trust Makelaars</entry>
+              <entry/>
+              <entry>600</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>600</entry>
+              <entry>-</entry>
+              <entry>N5</entry>
+              <entry>Versekering</entry>
+            </row>
+            <row>
+              <entry>206</entry>
+              <entry>14</entry>
+              <entry>Kontant</entry>
+              <entry/>
+              <entry>560</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>560</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>207</entry>
+              <entry/>
+              <entry>ZY Groothandelaars</entry>
+              <entry/>
+              <entry>6 130</entry>
+              <entry>-</entry>
+              <entry>5 950</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>180</entry>
+              <entry>-</entry>
+              <entry>N6</entry>
+              <entry>Skryfbehoeftes</entry>
+            </row>
+            <row>
+              <entry>208</entry>
+              <entry>16</entry>
+              <entry>Larnie Meubileerders</entry>
+              <entry/>
+              <entry>3 760</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>3 760</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>209</entry>
+              <entry>17</entry>
+              <entry>Caro Bpk.</entry>
+              <entry/>
+              <entry>2 896</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry>2 896</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>210</entry>
+              <entry/>
+              <entry>Kontant</entry>
+              <entry/>
+              <entry>560</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>560</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>211</entry>
+              <entry/>
+              <entry>Wesco Verspreiders</entry>
+              <entry/>
+              <entry>3 875</entry>
+              <entry>-</entry>
+              <entry>3 875</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>212</entry>
+              <entry>28</entry>
+              <entry>Kontant</entry>
+              <entry/>
+              <entry>560</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>560</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>213</entry>
+              <entry>30</entry>
+              <entry>J Henning</entry>
+              <entry/>
+              <entry>2 110</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>2 110</entry>
+              <entry>-</entry>
+              <entry>N7</entry>
+              <entry>Salaris</entry>
+            </row>
+            <row>
+              <entry>214</entry>
+              <entry/>
+              <entry>Bengo Groothandelaars</entry>
+              <entry/>
+              <entry>14 994</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>14 994</entry>
+              <entry>- </entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>123 960</entry>
+              <entry>-</entry>
+              <entry>9 825</entry>
+              <entry>-</entry>
+              <entry>5 571</entry>
+              <entry>-</entry>
+              <entry>2 240</entry>
+              <entry>- </entry>
+              <entry>18 754</entry>
+              <entry>-</entry>
+              <entry>87 570</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>B7</entry>
+              <entry/>
+              <entry>B5</entry>
+              <entry/>
+              <entry>N8</entry>
+              <entry/>
+              <entry>N9</entry>
+              <entry/>
+              <entry>B9</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633628313">OPDRAG 2</para>
+      <para id="id1167633628318">KONTANTONTVANGSTEJOERNAAL VAN HATTING HANDELAARS - APRIL 2003 KOJ 3.7.1</para>
+      <table id="id1167633628324" summary="">
+        <tgroup cols="20">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <colspec colnum="17" colname="c17"/>
+          <colspec colnum="18" colname="c18"/>
+          <colspec colnum="19" colname="c19"/>
+          <colspec colnum="20" colname="c20"/>
+          <tbody>
+            <row>
+              <entry>Dok</entry>
+              <entry>Dag</entry>
+              <entry>Besonder-hede</entry>
+              <entry>Fol</entry>
+              <entry namest="c5" nameend="c6">Ontleding</entry>
+              <entry namest="c7" nameend="c8">Bank</entry>
+              <entry namest="c9" nameend="c10">Verkope</entry>
+              <entry namest="c11" nameend="c12">Koste van verkope</entry>
+              <entry namest="c13" nameend="c14">Lopende inkomste</entry>
+              <entry namest="c15" nameend="c16">Debiteure­kontrole</entry>
+              <entrytbl namest="c17" nameend="c20" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c3">Diverse rekeninge</entry>
+                  </row>
+                  <row>
+                    <entry>Bedrag</entry>
+                    <entry>Fol</entry>
+                    <entry>Besonderhede</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>01</entry>
+              <entry>1</entry>
+              <entry>P. Hatting</entry>
+              <entry/>
+              <entry>105 000</entry>
+              <entry>-</entry>
+              <entry>105 000</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>105 000</entry>
+              <entry>-</entry>
+              <entry>B1</entry>
+              <entry>Kapitaal</entry>
+            </row>
+            <row>
+              <entry>KR</entry>
+              <entry>5</entry>
+              <entry>Dienste gelewer</entry>
+              <entry/>
+              <entry>2 160</entry>
+              <entry>-</entry>
+              <entry>2 160</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>2 160</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>02</entry>
+              <entry>7</entry>
+              <entry>V. Jansen</entry>
+              <entry/>
+              <entry>660</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>660</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Blommie Bloemiste</entry>
+              <entry/>
+              <entry>500</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>500</entry>
+              <entry>-</entry>
+              <entry>N4</entry>
+              <entry>Huurinkomste</entry>
+            </row>
+            <row>
+              <entry>KP</entry>
+              <entry>7</entry>
+              <entry>Verkope</entry>
+              <entry/>
+              <entry>5 800</entry>
+              <entry>-</entry>
+              <entry>6 960</entry>
+              <entry>-</entry>
+              <entry>5 800</entry>
+              <entry>-</entry>
+              <entry>4 600</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>03</entry>
+              <entry>14</entry>
+              <entry>D. Coetzee</entry>
+              <entry/>
+              <entry>300</entry>
+              <entry>-</entry>
+              <entry>300</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>300</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>KR</entry>
+              <entry>17</entry>
+              <entry>Verkope</entry>
+              <entry/>
+              <entry>3 820</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry>3 820</entry>
+              <entry>-</entry>
+              <entry>2 440</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>KR</entry>
+              <entry/>
+              <entry>Dienste gelewer</entry>
+              <entry/>
+              <entry>3 220</entry>
+              <entry>-</entry>
+              <entry>7 040</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>3 220</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>04</entry>
+              <entry>21</entry>
+              <entry>G. Ferreira</entry>
+              <entry/>
+              <entry>200</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>200</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>KR</entry>
+              <entry/>
+              <entry>Verkope</entry>
+              <entry/>
+              <entry>7 620</entry>
+              <entry>-</entry>
+              <entry>7 820</entry>
+              <entry>-</entry>
+              <entry>7 620</entry>
+              <entry>-</entry>
+              <entry>5 740</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>KR</entry>
+              <entry>25</entry>
+              <entry>Dienste gelewer</entry>
+              <entry/>
+              <entry>1 736</entry>
+              <entry>-</entry>
+              <entry>1 736</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>1 736</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>05</entry>
+              <entry>28</entry>
+              <entry>V. Jansen</entry>
+              <entry/>
+              <entry>246</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>246</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>KR</entry>
+              <entry/>
+              <entry>Verkope</entry>
+              <entry/>
+              <entry>1 944</entry>
+              <entry>-</entry>
+              <entry>2 190</entry>
+              <entry>-</entry>
+              <entry>1 944</entry>
+              <entry>-</entry>
+              <entry>1 406</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>133 206</entry>
+              <entry>-</entry>
+              <entry>19 184</entry>
+              <entry>-</entry>
+              <entry>14 186</entry>
+              <entry>-</entry>
+              <entry>7 116</entry>
+              <entry>-</entry>
+              <entry>1 406</entry>
+              <entry>-</entry>
+              <entry>105 500</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>B7</entry>
+              <entry/>
+              <entry>N1</entry>
+              <entry/>
+              <entry>N3/B5</entry>
+              <entry/>
+              <entry>N2</entry>
+              <entry/>
+              <entry>B6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633593244">OPDRAG 2</para>
+      <para id="id1167633593248">KREDITEUREJOERNAAL VAN HATTING HANDELAARS VIR APRIL 2003 KJ 3.7.1</para>
+      <table id="id1167633593255" summary="">
+        <tgroup cols="16">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <colspec colnum="13" colname="c13"/>
+          <colspec colnum="14" colname="c14"/>
+          <colspec colnum="15" colname="c15"/>
+          <colspec colnum="16" colname="c16"/>
+          <tbody>
+            <row>
+              <entry>Fak-tuur</entry>
+              <entry>Dag</entry>
+              <entry>Krediteure</entry>
+              <entry>Fol</entry>
+              <entry namest="c5" nameend="c6">Krediteure-kontrole</entry>
+              <entry namest="c7" nameend="c8">Handels-voorraad</entry>
+              <entry namest="c9" nameend="c10">Materiaal-koste</entry>
+              <entry namest="c11" nameend="c12">Skryf-behoeftes</entry>
+              <entrytbl namest="c13" nameend="c16" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry namest="c1" nameend="c3">Diverse rekeninge</entry>
+                  </row>
+                  <row>
+                    <entry>Bedrag</entry>
+                    <entry>Fol</entry>
+                    <entry>Besonderhede</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry>100</entry>
+              <entry>3</entry>
+              <entry>Larnie Meubileerders</entry>
+              <entry/>
+              <entry>3 760</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>3 760</entry>
+              <entry>-</entry>
+              <entry>B3</entry>
+              <entry>Toerusting</entry>
+            </row>
+            <row>
+              <entry>101</entry>
+              <entry>5</entry>
+              <entry>Bengo Groot Handelaars</entry>
+              <entry/>
+              <entry>8 844</entry>
+              <entry>-</entry>
+              <entry>8 844</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>102</entry>
+              <entry>6</entry>
+              <entry>Willow Voorsieners</entry>
+              <entry/>
+              <entry>2 500</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry>2 500</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>103</entry>
+              <entry>7</entry>
+              <entry>Pen en Papier</entry>
+              <entry/>
+              <entry>228</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>228</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>104</entry>
+              <entry>9</entry>
+              <entry>Bengo Groot Handelaars</entry>
+              <entry/>
+              <entry>4 750</entry>
+              <entry>-</entry>
+              <entry>4 750</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>105</entry>
+              <entry>15</entry>
+              <entry>Toledo Motors</entry>
+              <entry/>
+              <entry>28 660</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>28 660</entry>
+              <entry>-</entry>
+              <entry>B4</entry>
+              <entry>Voertuie</entry>
+            </row>
+            <row>
+              <entry>106</entry>
+              <entry>17</entry>
+              <entry>Willow Voorsieners</entry>
+              <entry/>
+              <entry>3 420</entry>
+              <entry>-</entry>
+              <entry>3 000</entry>
+              <entry>-</entry>
+              <entry>420</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>107</entry>
+              <entry>19</entry>
+              <entry>Pen en Papier</entry>
+              <entry/>
+              <entry>106</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>106</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>108</entry>
+              <entry>26</entry>
+              <entry>Bengo Groot Handelaars</entry>
+              <entry/>
+              <entry>1 400</entry>
+              <entry>-</entry>
+              <entry>1 400</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>53 668</entry>
+              <entry>-</entry>
+              <entry>17 994</entry>
+              <entry>-</entry>
+              <entry>2 920</entry>
+              <entry>-</entry>
+              <entry>334</entry>
+              <entry>-</entry>
+              <entry>32 420</entry>
+              <entry>-</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>B8</entry>
+              <entry/>
+              <entry>B5</entry>
+              <entry/>
+              <entry>N8</entry>
+              <entry/>
+              <entry>N6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633594866">OPDRAG 2</para>
+      <para id="id1167633594870">Debiteurejoernaal van Hatting Handelaars  DJ 3.7.1</para>
+      <table id="id1167633594877" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>Fakt.</entry>
+              <entry>Dag</entry>
+              <entry>Debiteure</entry>
+              <entry>Fol</entry>
+              <entry>Verkope</entry>
+              <entry>Koste van verkope</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>4</entry>
+              <entry>V Jansen</entry>
+              <entry/>
+              <entry>660</entry>
+              <entry>495</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>10</entry>
+              <entry>D Coetzee</entry>
+              <entry/>
+              <entry>890</entry>
+              <entry>712</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>13</entry>
+              <entry>G Ferreira</entry>
+              <entry/>
+              <entry>260</entry>
+              <entry>128</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>16</entry>
+              <entry>D Coetzee</entry>
+              <entry/>
+              <entry>106</entry>
+              <entry>84</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>17</entry>
+              <entry>V Jansen</entry>
+              <entry/>
+              <entry>246</entry>
+              <entry>184</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry>26</entry>
+              <entry>G Ferreira</entry>
+              <entry/>
+              <entry>340</entry>
+              <entry>272</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>2 502</entry>
+              <entry>1 875</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>B6/N1</entry>
+              <entry>B5/N3</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633595383">OPDRAG 2 </para>
+      <para id="id1167633595388">Algemene Grootboek van Hatting Handelaars</para>
+      <table id="id1167633595392" summary="">
+        <tgroup cols="12">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <colspec colnum="10" colname="c10"/>
+          <colspec colnum="11" colname="c11"/>
+          <colspec colnum="12" colname="c12"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Balansstaatafdeling</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry namest="c1" nameend="c2">Datum</entry>
+              <entry>Besonderhede</entry>
+              <entry>Fol</entry>
+              <entry>Bedrag</entry>
+              <entry/>
+              <entry namest="c7" nameend="c8">Datum</entry>
+              <entry>Besonderhede</entry>
+              <entry>Fol</entry>
+              <entry>Bedrag</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Kapitaal</entry>
+              <entry>B1</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Apr.</entry>
+              <entry>1</entry>
+              <entry>Bank</entry>
+              <entry>KOJ29</entry>
+              <entry>105 000</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Grond en Geboue</entry>
+              <entry>B2</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>2</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>80 000</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Toerusting</entry>
+              <entry>B3</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>3</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>4 500</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>3</entry>
+              <entry>Krediteurekontrole</entry>
+              <entry>KJ29</entry>
+              <entry>3 760</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>8 260</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Voertuie</entry>
+              <entry>B4</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>15</entry>
+              <entry>Krediteurekontrole</entry>
+              <entry>KJ29</entry>
+              <entry>28 660</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Handelsvoorraad</entry>
+              <entry>B5</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>9 825</entry>
+              <entry/>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Handelsvoorraad</entry>
+              <entry>KOJ29</entry>
+              <entry>14 186</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>30</entry>
+              <entry>Krediteurekontrole</entry>
+              <entry>KJ29</entry>
+              <entry>17 994</entry>
+              <entry/>
+              <entry/>
+              <entry>30</entry>
+              <entry>Handelsvoorraad</entry>
+              <entry>DJ29</entry>
+              <entry>1 875</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Saldo</entry>
+              <entry>o/d</entry>
+              <entry>11 758</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>27 819</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>27 819</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Mei</entry>
+              <entry>1</entry>
+              <entry>Saldo</entry>
+              <entry>a/b</entry>
+              <entry>11 758</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Debiteurekontrole</entry>
+              <entry>B6</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Verkope</entry>
+              <entry>DJ29</entry>
+              <entry>2 502</entry>
+              <entry/>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Bank</entry>
+              <entry>KOJ29</entry>
+              <entry>1 406</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Saldo</entry>
+              <entry>o/b</entry>
+              <entry>1 096</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>2 502</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>2 502</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Mei</entry>
+              <entry>1</entry>
+              <entry>Saldo</entry>
+              <entry>a/b</entry>
+              <entry>1 096</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Bank</entry>
+              <entry>B7</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Totale Ontvangste</entry>
+              <entry>KOJ29</entry>
+              <entry>133 206</entry>
+              <entry/>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Totale Betalings</entry>
+              <entry>KBJ29</entry>
+              <entry>123 960</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Saldo</entry>
+              <entry>o/d</entry>
+              <entry>9 246</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>133 206</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>133 206</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Mei</entry>
+              <entry>1</entry>
+              <entry>Saldo</entry>
+              <entry>a/b</entry>
+              <entry>9 246</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Wisselgeld</entry>
+              <entry>B8</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>4</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>180</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Krediteurekontrole</entry>
+              <entry>B9</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>18 754</entry>
+              <entry/>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Diverse Aankope</entry>
+              <entry>KJ29</entry>
+              <entry>53 668</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Saldo</entry>
+              <entry>o/d</entry>
+              <entry>34 914</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>53 668</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>53 668</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Mei</entry>
+              <entry>1</entry>
+              <entry>Saldo</entry>
+              <entry>a/b</entry>
+              <entry>34 914</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Nominale Rekeninge-afdeling</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Verkope</entry>
+              <entry>N1</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Bank</entry>
+              <entry>KOJ29</entry>
+              <entry>19 184</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>30</entry>
+              <entry>Debiteurekontrole</entry>
+              <entry>DJ29</entry>
+              <entry>2 502</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>21 686</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Lopende Inkomste</entry>
+              <entry>N2</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Bank</entry>
+              <entry>KOJ29</entry>
+              <entry>7 116</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Koste van verkope</entry>
+              <entry>N3</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Handelsvoorraad</entry>
+              <entry>KOJ29</entry>
+              <entry>14 186</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Handelsvoorraad</entry>
+              <entry>DJ29</entry>
+              <entry>1 875</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>16 061</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Huurinkomste</entry>
+              <entry>N4</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>Apr.</entry>
+              <entry>7</entry>
+              <entry>Bank</entry>
+              <entry>KOJ29</entry>
+              <entry>500</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Versekering</entry>
+              <entry>N5</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>4</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>600</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Skryfbehoeftes</entry>
+              <entry>N6</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>14</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>180</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>30</entry>
+              <entry>Krediteurekontrole</entry>
+              <entry>BJ29</entry>
+              <entry>334</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>514</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Salaris</entry>
+              <entry>N7</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>2 110</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Materiaalkoste</entry>
+              <entry>N8</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>5 571</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry>30</entry>
+              <entry>Krediteurekontrole</entry>
+              <entry>KJ29</entry>
+              <entry>2 920</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>8 491</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry namest="c3" nameend="c9">Lone</entry>
+              <entry>N9</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Apr.</entry>
+              <entry>30</entry>
+              <entry>Bank</entry>
+              <entry>KBJ29</entry>
+              <entry>2 240</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1167633600337">OPDRAG 2</para>
+      <para id="id1167633600341">PROEFBALANS VAN HATTING HANDELAARS OP 30 APRIL 2003</para>
+      <table id="id1167633600345" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>Dt.</entry>
+              <entry>Kt.</entry>
+            </row>
+            <row>
+              <entry>Balansstaatafdeling</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Kapitaal</entry>
+              <entry>B1</entry>
+              <entry/>
+              <entry>105 000</entry>
+            </row>
+            <row>
+              <entry>Grond en Geboue</entry>
+              <entry>B2</entry>
+              <entry>80 000</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Toerusting</entry>
+              <entry>B3</entry>
+              <entry>8 260</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Voertuie</entry>
+              <entry>B4</entry>
+              <entry>28 660</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Handelsvoorraad</entry>
+              <entry>B5</entry>
+              <entry>11 758</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Debiteurekontrole</entry>
+              <entry>B6</entry>
+              <entry>1 096</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Bank</entry>
+              <entry>B7</entry>
+              <entry>9 246</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Wisselgeld</entry>
+              <entry>B8</entry>
+              <entry>180</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Krediteurekontrole</entry>
+              <entry>B9</entry>
+              <entry/>
+              <entry>34 914</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Nominale Rekeninge-afdeling</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Verkope</entry>
+              <entry>N1</entry>
+              <entry/>
+              <entry>21 686</entry>
+            </row>
+            <row>
+              <entry>Lopende Inkomste</entry>
+              <entry>N2</entry>
+              <entry/>
+              <entry>7 116</entry>
+            </row>
+            <row>
+              <entry>Kosprys van verkope</entry>
+              <entry>N3</entry>
+              <entry>16 061</entry>
+              <entry>500</entry>
+            </row>
+            <row>
+              <entry>Huurinkomste</entry>
+              <entry>N4</entry>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Versekering</entry>
+              <entry>N5</entry>
+              <entry>600</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Skryfbehoeftes</entry>
+              <entry>N6</entry>
+              <entry>514</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Salaris</entry>
+              <entry>N7</entry>
+              <entry>2 110</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Materiaalkoste</entry>
+              <entry>N8</entry>
+              <entry>8 491</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>Lone</entry>
+              <entry>N9</entry>
+              <entry>2 240</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry>169 216</entry>
+              <entry>169 216</entry>
+            </row>
+            <row>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </content>
+</document>
