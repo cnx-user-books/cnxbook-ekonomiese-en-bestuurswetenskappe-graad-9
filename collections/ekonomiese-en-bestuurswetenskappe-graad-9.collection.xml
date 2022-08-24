@@ -1,3 +1,58 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11073</md:content-id>  <md:title>Ekonomiese en Bestuurswetenskappe Graad 9</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>9f993606-6f5e-45db-9f02-41c7a3871e7e</md:uuid>
-<md:slug>ekonomiese-en-bestuurswetenskappe-graad-9</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m25200"/>                            <col:module document="m25201"/>                            <col:module document="m25202"/>                            <col:module document="m25203"/>                            <col:module document="m25226"/>                            <col:module document="m25212"/>                            <col:module document="m25213"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m25216"/>                            <col:module document="m25218"/>                            <col:module document="m25220"/>                            <col:module document="m25224"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m25239"/>                            <col:module document="m25236"/>                            <col:module document="m25240"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m31781"/>                            <col:module document="m31783"/>                            <col:module document="m31791"/>                            <col:module document="m31798"/>                            <col:module document="m31794"/>                            <col:module document="m31802"/>                            <col:module document="m31808"/>                            <col:module document="m31823"/>                            <col:module document="m31824"/>                            <col:module document="m31785"/>                            <col:module document="m31788"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11073</md:content-id>
+    <md:title>Ekonomiese en Bestuurswetenskappe Graad 9</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>9f993606-6f5e-45db-9f02-41c7a3871e7e</md:uuid>
+    <md:slug>ekonomiese-en-bestuurswetenskappe-graad-9</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m25200"/>
+        <col:module document="m25201"/>
+        <col:module document="m25202"/>
+        <col:module document="m25203"/>
+        <col:module document="m25226"/>
+        <col:module document="m25212"/>
+        <col:module document="m25213"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m25216"/>
+        <col:module document="m25218"/>
+        <col:module document="m25220"/>
+        <col:module document="m25224"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m25239"/>
+        <col:module document="m25236"/>
+        <col:module document="m25240"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m31781"/>
+        <col:module document="m31783"/>
+        <col:module document="m31791"/>
+        <col:module document="m31798"/>
+        <col:module document="m31794"/>
+        <col:module document="m31802"/>
+        <col:module document="m31808"/>
+        <col:module document="m31823"/>
+        <col:module document="m31824"/>
+        <col:module document="m31785"/>
+        <col:module document="m31788"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
